@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Kirill Struminsky
 
-You can use the [editor on GitHub](https://github.com/struminsky/struminsky.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. candidate at [Centre for Deep Learning and Bayesian Methods](https://twitter.com/bayesgroup) at [HSE University](https://cs.hse.ru/en/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My work focuses on various topics in probabilistic machine learning, such as approximate inference, generative models, and structure learning. I pursue my newly found interest in computer graphics and play table tennis in my spare time.
 
-### Markdown
+[Twitter](https://twitter.com/k_struminsky) /
+[CV](files/cv.pdf) /
+[Google Scholar](https://scholar.google.com/citations?user=q69zIO0AAAAJ) /
+[Github](https://github.com/struminsky)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Selected Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/struminsky/struminsky.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Leveraging Recursive Gumbel-Max Trick for Approximate Inference in Combinatorial Spaces](https://arxiv.org/abs/2110.15072). Kirill Struminsky*, Artyom Gadetsky*, Denis Rakitin*, Danil Karpushkin, and Dmitry Vetrov. NeurIPS 2021. 
+- [Low-Variance Black-Box Gradient Estimates for the Plackett-Luce Distribution](https://arxiv.org/abs/1911.10036). Artyom Gadetsky*, Kirill Struminsky*, Christopher Robinson, Novi Quadrianto, and Dmitry Vetroc. AAAI 2020.
+- [The Deep Weight Prior. Modeling a Prior Distribution for CNNs Using Generative Models](https://arxiv.org/abs/1810.06943). Andrey Atanov*, Senya Ashukha*, Kirill Strumisnky, Dmitry Vetrov, and Max Welling. ICLR 2019.
+- [Quantifying Learning Guarantees for Convex but Inconsistent Surrogates](https://arxiv.org/abs/1810.11544). Kirill Struminsky, Simone Lacoste-Julien, and Anton Osokin. NeurIPS 2018.
