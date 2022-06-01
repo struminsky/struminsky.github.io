@@ -1,3 +1,7 @@
+layout: page
+title: "Kirill Struminsky's Homepage"
+permalink: /index
+
 ## Kirill Struminsky
 
 I am a Ph.D. candidate at [Centre for Deep Learning and Bayesian Methods](https://twitter.com/bayesgroup) at [HSE University](https://cs.hse.ru/en/). 
