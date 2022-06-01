@@ -1,9 +1,3 @@
-layout: page
-title: "Kirill Struminsky's Homepage"
-permalink: /index
-
-## Kirill Struminsky
-
 I am a Ph.D. candidate at [Centre for Deep Learning and Bayesian Methods](https://twitter.com/bayesgroup) at [HSE University](https://cs.hse.ru/en/). 
 
 My work focuses on various topics in probabilistic machine learning, such as approximate inference, generative models, and structure learning. I pursue my newly found interest in computer graphics and play table tennis in my spare time.
